@@ -26,7 +26,8 @@ public class team3 {
                 return false;
             }
         }
-        return true;
+        return false;
     }//
 }
 //  Mike code update
+// second change
