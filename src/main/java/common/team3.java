@@ -14,8 +14,9 @@ public class team3 {
         } else {
             System.out.println(n + " is not a prime number");
         }
-    }
-
+    }////
+//hello
+    //hi
     public static boolean isPrime(int n) {
         if (n <= 1) {
             return false;
