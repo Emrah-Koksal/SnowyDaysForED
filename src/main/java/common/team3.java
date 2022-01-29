@@ -23,7 +23,8 @@ public class team3 {
         }
         for (int i = 2; i < Math.sqrt(n); i++) {
             if (n % i == 0) {
-                return false;
+                return true;
+                
             }
         }
         return false;
@@ -31,3 +32,4 @@ public class team3 {
 }
 //  Mike code update
 // second change
+//third change
