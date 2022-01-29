@@ -5,9 +5,9 @@ public class team3 {
     public static void main(String[] args) {
         int num = 0;
         if (num%2!=0 || num>=2) {
-            System.out.println("This is a prime number");
+            System.out.println("prime number");
         }else {
-            System.out.println("This is not a prime number");
+            System.out.println("not a prime number");
         }
     }
 }
