@@ -4,10 +4,13 @@ public class team3 {
 
     public static void main(String[] args) {
 
-        int num = 29;
+        prime(29);
+
+    }
+
+    public static void prime(int num) {
         boolean flag = false;
         for (int i = 2; i <= num / 2; ++i) {
-
             if (num % i == 0) {
                 flag = true;
                 break;
@@ -18,6 +21,7 @@ public class team3 {
             System.out.println(num + " is a prime number.");
         else
             System.out.println(num + " is not a prime number.");
+
     }
 }
 
