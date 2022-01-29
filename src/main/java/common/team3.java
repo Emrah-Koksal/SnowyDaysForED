@@ -16,6 +16,7 @@ public class team3 {
         }
     }////
 //hello
+    //hi
     public static boolean isPrime(int n) {
         if (n <= 1) {
             return false;
