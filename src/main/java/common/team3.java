@@ -23,9 +23,11 @@ public class team3 {
         }
         for (int i = 2; i < Math.sqrt(n); i++) {
             if (n % i == 0) {
-                return false;
+                return false;//hello mike
             }
         }
-        return true;
+        return false;
     }//
 }
+//  Mike code update
+// second change
